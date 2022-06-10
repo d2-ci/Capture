@@ -1,7 +1,7 @@
 {
   "appType": "APP",
-  "short_name": "Capture Bangladesh",
-  "name": "Capture Bangladesh",
+  "short_name": "capture",
+  "name": "Capture",
   "version": "36.1.0",
   "launch_path": "index.html",
   "default_locale": "en",
@@ -13,7 +13,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Tue Jun 07 2022 22:34:46 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Fri Jun 10 2022 10:06:17 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
